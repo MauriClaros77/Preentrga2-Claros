@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.462" height="25" viewBox="0 0 21.462 25">
+  <g id="trash-outline" transform="translate(1 1)">
+    <path id="Trazado_5" data-name="Trazado 5" d="M112,112l1.106,17.692a1.776,1.776,0,0,0,1.769,1.769h10.173a1.78,1.78,0,0,0,1.769-1.769L127.923,112" transform="translate(-110.231 -108.462)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_6" data-name="Trazado 6" d="M80,112H99.462" transform="translate(-80 -108.462)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Trazado_7" data-name="Trazado 7" d="M184.442,51.538V49.327h0A1.323,1.323,0,0,1,185.769,48h4.423a1.323,1.323,0,0,1,1.327,1.327h0v2.212m-3.538,3.538V67.461M184,55.077l.442,12.385m7.519-12.385-.442,12.385" transform="translate(-178.25 -48)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
